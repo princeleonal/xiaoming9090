@@ -15,7 +15,7 @@ For other business opportunities, potential collaboration, or team audits, feel 
 - Achieved #1 ranking on Code4rena's leaderboard (last 90 days) on September 2022
 - Serve as the Lead Senior Watson for 17 audit contests in Sherlock
 - Found 91 High and 150 Medium risk vulnerabilities in audit contests
-- Code4rena's Pro League auditor
+- Code4rena's Pro League auditor [[1]](https://x.com/code4rena/status/1791486527249559880)
 
 ### Engagements
 
